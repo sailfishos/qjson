@@ -1,0 +1,10 @@
+* Tue Jul 27 2010 Fathi Boudra <fathi.boudra@nokia.com> - 0.7.1
+- Cleanup the spec file
+- Add spectacle support
+
+* Sat Apr 10 2010 Anas Nashif <anas.nashif@intel.com> - 0.7.1
+- Fixed rpmlint errors
+
+* Wed Feb 17 2010 Rusty Lynch <rusty.lynch@intel.com> - 0.7.1
+- release 0.7.1
+
