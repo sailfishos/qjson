@@ -1,3 +1,6 @@
+* Tue Jan 15 2012 Jeremy Whiting <jpwhiting@kde.org> - 0.8.1
+- Upgrade sources to 0.8.1
+
 * Tue Jul 27 2010 Fathi Boudra <fathi.boudra@nokia.com> - 0.7.1
 - Cleanup the spec file
 - Add spectacle support
